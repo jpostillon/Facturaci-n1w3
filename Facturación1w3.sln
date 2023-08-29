@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturación1w3", "Facturación1w3.csproj", "{54F25A2E-4AD3-4D3D-AB7F-5D55993AAF00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{2692D593-0B4C-4A6F-BA10-F88209051E1B}"
+	ProjectSection(SolutionItems) = preProject
+		Form1.cs = Form1.cs
+		Form1.Designer.cs = Form1.Designer.cs
+		Form1.resx = Form1.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54F25A2E-4AD3-4D3D-AB7F-5D55993AAF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F25A2E-4AD3-4D3D-AB7F-5D55993AAF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F25A2E-4AD3-4D3D-AB7F-5D55993AAF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F25A2E-4AD3-4D3D-AB7F-5D55993AAF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1E7374-8D04-4747-B704-627E2F7A250B}
+	EndGlobalSection
+EndGlobal
